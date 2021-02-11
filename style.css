@@ -1,0 +1,77 @@
+.logo{
+    width: 250px;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.heading h1{
+    font-size: 80px;
+    font-family: 'Bebas Neue', cursive;
+}
+.penguin-heading{
+    color: #fabe4c;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #c5db6b 0%, #85a019 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.top-banner{
+    background-image: linear-gradient(to bottom, #fffbf0 100%, #ffffff 0%);
+    padding: 10px 10px;
+}
+.black-jacket, .maroon-jacket{
+    height: 69%;
+}
+.red-lady-jacket, .yellow-lady-jacket{
+    height: 59%;
+}
+.support-image{
+    width: 100%;
+}
+.bottom-card img{
+    width: 50%;
+}
+.card-1, .card-2, .card-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border-radius: 15px;
+    margin-bottom: 75px;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 15px grey;   
+}
+.card-footer .price{
+    color: #fabe4c;
+    display: block;
+    float: left;
+    margin-top: 16px;
+    line-height: 23px;
+    padding-right: 10px;
+}
+.card-footer .buy-now-button{
+    display: block;
+    float: right;
+    margin-top: 16px;
+    line-height: 20px;
+    padding-right: 25px;
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.buy-now-button img{
+    width: 16%;
+}
+.woman-jacket h1, .man-jacket h1{
+    font-family:'Bebas Neue', cursive;
+}
+h4, h5{
+    font-weight: 700;
+}
